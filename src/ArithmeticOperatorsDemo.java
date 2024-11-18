@@ -20,9 +20,9 @@ public class ArithmeticOperatorsDemo {
         System.out.println("Prefix ++ operator resulted in " + x);
         x = -y;
         System.out.println("Unary operator resulted in " + x);
-        // Some examples of special Cases
+
         int tooBig = Integer.MAX_VALUE + 1;
-        // Integer.MIN_VALUE.
+
         int tooSmall = Integer.MIN_VALUE - 1;
 
         System.out.println("tooBig becomes " + tooBig);
